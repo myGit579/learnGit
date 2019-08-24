@@ -1,0 +1,33 @@
+/dev/mmcblk1p1    3.5G 	Linux filesystem	sos_rootfs		需要红石做升级	linux		可以挂载
+/dev/mmcblk1p2   100M 	Linux filesystem	sos_boot.img		需要红石做升级	linux		不可挂载
+
+/dev/loop0p1      30M 	unknown			bootloader_a.img	需要红石做升级	android		不可挂载
+/dev/loop0p2      4K 	unknown								android
+/dev/loop0p3      30M 	Linux filesystem	boot_a.img		需要红石做升级	android		不可挂载
+/dev/loop0p4      4K 	Linux filesystem						android
+/dev/loop0p5      10M 	Linux filesystem	tos_a.img		需要红石做升级	android		不可挂载
+/dev/loop0p6        4K 	Linux filesystem						android
+/dev/loop0p7        1M	Linux filesystem						android
+/dev/loop0p8       16M 	Microsoft LDM metadata						android
+/dev/loop0p9       2G 	Linux filesystem	system_a		需要红石做升级	android		可以挂载
+/dev/loop0p10     4K 	Linux filesystem						android
+/dev/loop0p11      1G 	Linux filesystem	vendor_a		需要红石做升级	android		可以挂载
+/dev/loop0p12    4K 	Linux filesystem						android
+	/dev/loop0p13    40M 	Linux filesystem	product_a		需要红石做升级	android		可以挂载
+/dev/loop0p14     4K 	Linux filesystem						android
+/dev/loop0p15     40M 	Linux filesystem						android
+/dev/loop0p16     4K 	Linux filesystem						android
+/dev/loop0p17     2M 	Linux filesystem						android
+/dev/loop0p18     4K 	Linux filesystem						android
+/dev/loop0p19     2M 	Linux filesystem						android
+/dev/loop0p20     4K 	Linux filesystem						android
+/dev/loop0p21   19.1G 	Linux filesystem						android
+/dev/loop0p22     1M 	unknown								android
+/dev/loop0p23    32M 	Linux filesystem						android
+/dev/loop0p24    2M 	Linux filesystem	vbmeta_a.img		需要红石做升级	android		不可挂载
+/dev/loop0p25    4K 	Linux filesystem						android
+/dev/loop0p26    8M 	Linux filesystem						android
+/dev/loop0p27    3G 	Linux filesystem						android
+
+/dev/mmcblk1p4   50M 	Linux filesystem						linux
+/dev/mmcblk1p5   150M 	Linux filesystem	update_elk.img		需要红石做升级	linux		不可挂载

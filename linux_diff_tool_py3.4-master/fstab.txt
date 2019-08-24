@@ -1,0 +1,2 @@
+home	/home	ubifs	/home	default	default
+boot.img	boot	MTD	/BOOTABLE_IMAGES	default	default
